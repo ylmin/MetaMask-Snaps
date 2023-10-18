@@ -1,0 +1,2 @@
+# MetaMask-Snaps
+MetaMask-Snaps
